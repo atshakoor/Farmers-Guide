@@ -1,0 +1,509 @@
+{
+ "root" :
+ [
+  {
+    "Crop": "Aus",
+    "Year": 2015,
+    "Temp": 29.32,
+    "Rain": 153.1,
+    "Yield": 2.813
+  },
+  {
+    "Crop": "Aus",
+    "Year": 2014,
+    "Temp": 29.48,
+    "Rain": 149.3,
+    "Yield": 2.661
+  },
+  {
+    "Crop": "Aus",
+    "Year": 2013,
+    "Temp": 29.26,
+    "Rain": 160.2,
+    "Yield": 2.217
+  },
+  {
+    "Crop": "Aus",
+    "Year": 2012,
+    "Temp": 29.43,
+    "Rain": 135.6,
+    "Yield": 2.396
+  },
+  {
+    "Crop": "Aus",
+    "Year": 2011,
+    "Temp": 29.02,
+    "Rain": 141.8,
+    "Yield": 2.253
+  },
+  {
+    "Crop": "Aus",
+    "Year": 2010,
+    "Temp": 30.44,
+    "Rain": 147.2,
+    "Yield": 2.03
+  },
+  {
+    "Crop": "Aus",
+    "Year": 2009,
+    "Temp": 29.9,
+    "Rain": 182,
+    "Yield": 2.113
+  },
+  {
+    "Crop": "Aus",
+    "Year": 2008,
+    "Temp": 29.22,
+    "Rain": 197,
+    "Yield": 1.993
+  },
+  {
+    "Crop": "Aus",
+    "Year": 2007,
+    "Temp": 29.1,
+    "Rain": 253.2,
+    "Yield": 2.012
+  },
+  {
+    "Crop": "Aus",
+    "Year": 2006,
+    "Temp": 29.46,
+    "Rain": 204.8,
+    "Yield": 1.967
+  },
+  {
+    "Crop": "Aus",
+    "Year": 2005,
+    "Temp": 29.82,
+    "Rain": 181.2,
+    "Yield": 1.93
+  },
+  {
+    "Crop": "Aus",
+    "Year": 2004,
+    "Temp": 29.64,
+    "Rain": 184,
+    "Yield": 1.954
+  },
+  {
+    "Crop": "Aman",
+    "Year": 2015,
+    "Temp": 29.1,
+    "Rain": 208.21,
+    "Yield": 2.596
+  },
+  {
+    "Crop": "Aman",
+    "Year": 2014,
+    "Temp": 28.73,
+    "Rain": 213.4,
+    "Yield": 2.412
+  },
+  {
+    "Crop": "Aman",
+    "Year": 2013,
+    "Temp": 28.88,
+    "Rain": 217.66,
+    "Yield": 2.41
+  },
+  {
+    "Crop": "Aman",
+    "Year": 2012,
+    "Temp": 28.62,
+    "Rain": 190.83,
+    "Yield": 2.551
+  },
+  {
+    "Crop": "Aman",
+    "Year": 2011,
+    "Temp": 28.4,
+    "Rain": 193.67,
+    "Yield": 2.364
+  },
+  {
+    "Crop": "Aman",
+    "Year": 2010,
+    "Temp": 28.13,
+    "Rain": 197.83,
+    "Yield": 2.269
+  },
+  {
+    "Crop": "Aman",
+    "Year": 2009,
+    "Temp": 28.65,
+    "Rain": 245,
+    "Yield": 2.304
+  },
+  {
+    "Crop": "Aman",
+    "Year": 2008,
+    "Temp": 28.27,
+    "Rain": 249.33,
+    "Yield": 2.383
+  },
+  {
+    "Crop": "Aman",
+    "Year": 2007,
+    "Temp": 28.38,
+    "Rain": 301.83,
+    "Yield": 2.315
+  },
+  {
+    "Crop": "Aman",
+    "Year": 2006,
+    "Temp": 28.6,
+    "Rain": 235.67,
+    "Yield": 2.29
+  },
+  {
+    "Crop": "Aman",
+    "Year": 2005,
+    "Temp": 28.36,
+    "Rain": 235,
+    "Yield": 2.326
+  },
+  {
+    "Crop": "Aman",
+    "Year": 2004,
+    "Temp": 27.98,
+    "Rain": 370.67,
+    "Yield": 2.25
+  },
+  {
+    "Crop": "Boro",
+    "Year": 2015,
+    "Temp": 24.87,
+    "Rain": 67.33,
+    "Yield": 4.206
+  },
+  {
+    "Crop": "Boro",
+    "Year": 2014,
+    "Temp": 24.93,
+    "Rain": 59.79,
+    "Yield": 4.118
+  },
+  {
+    "Crop": "Boro",
+    "Year": 2013,
+    "Temp": 24.96,
+    "Rain": 63,
+    "Yield": 4.113
+  },
+  {
+    "Crop": "Boro",
+    "Year": 2012,
+    "Temp": 24.91,
+    "Rain": 51.27,
+    "Yield": 4.115
+  },
+  {
+    "Crop": "Boro",
+    "Year": 2011,
+    "Temp": 24.6,
+    "Rain": 57.75,
+    "Yield": 4.05
+  },
+  {
+    "Crop": "Boro",
+    "Year": 2010,
+    "Temp": 25.24,
+    "Rain": 29,
+    "Yield": 3.971
+  },
+  {
+    "Crop": "Boro",
+    "Year": 2009,
+    "Temp": 25.41,
+    "Rain": 49.12,
+    "Yield": 3.792
+  },
+  {
+    "Crop": "Boro",
+    "Year": 2008,
+    "Temp": 24.6,
+    "Rain": 77.25,
+    "Yield": 3.636
+  },
+  {
+    "Crop": "Boro",
+    "Year": 2007,
+    "Temp": 24.76,
+    "Rain": 42.21,
+    "Yield": 4.071
+  },
+  {
+    "Crop": "Boro",
+    "Year": 2006,
+    "Temp": 25.21,
+    "Rain": 96.12,
+    "Yield": 4.002
+  },
+  {
+    "Crop": "Boro",
+    "Year": 2005,
+    "Temp": 25.15,
+    "Rain": 65.62,
+    "Yield": 3.934
+  },
+  {
+    "Crop": "Boro",
+    "Year": 2004,
+    "Temp": 24.89,
+    "Rain": 88.87,
+    "Yield": 3.779
+  },
+  {
+    "Crop": "Wheat",
+    "Year": 2015,
+    "Temp": 23.12,
+    "Rain": 37.52,
+    "Yield": 3.085
+  },
+  {
+    "Crop": "Wheat",
+    "Year": 2014,
+    "Temp": 23.31,
+    "Rain": 31.27,
+    "Yield": 3.015
+  },
+  {
+    "Crop": "Wheat",
+    "Year": 2013,
+    "Temp": 22.83,
+    "Rain": 25.83,
+    "Yield": 2.801
+  },
+  {
+    "Crop": "Wheat",
+    "Year": 2012,
+    "Temp": 23.15,
+    "Rain": 20.5,
+    "Yield": 2.571
+  },
+  {
+    "Crop": "Wheat",
+    "Year": 2011,
+    "Temp": 23.01,
+    "Rain": 23.5,
+    "Yield": 2.51
+  },
+  {
+    "Crop": "Wheat",
+    "Year": 2010,
+    "Temp": 23.95,
+    "Rain": 3.5,
+    "Yield": 2.453
+  },
+  {
+    "Crop": "Wheat",
+    "Year": 2009,
+    "Temp": 24.15,
+    "Rain": 8,
+    "Yield": 2.3
+  },
+  {
+    "Crop": "Wheat",
+    "Year": 2008,
+    "Temp": 23.07,
+    "Rain": 49,
+    "Yield": 2.096
+  },
+  {
+    "Crop": "Wheat",
+    "Year": 2007,
+    "Temp": 23.75,
+    "Rain": 27,
+    "Yield": 2.196
+  },
+  {
+    "Crop": "Wheat",
+    "Year": 2006,
+    "Temp": 24.05,
+    "Rain": 9.17,
+    "Yield": 2.214
+  },
+  {
+    "Crop": "Wheat",
+    "Year": 2005,
+    "Temp": 23.82,
+    "Rain": 34.83,
+    "Yield": 2.197
+  },
+  {
+    "Crop": "Wheat",
+    "Year": 2004,
+    "Temp": 23.28,
+    "Rain": 17.83,
+    "Yield": 2.02
+  },
+  {
+    "Crop": "Jute",
+    "Year": 2015,
+    "Temp": 29.73,
+    "Rain": 193.08,
+    "Yield": 12.899
+  },
+  {
+    "Crop": "Jute",
+    "Year": 2014,
+    "Temp": 30.69,
+    "Rain": 182.16,
+    "Yield": 12.652
+  },
+  {
+    "Crop": "Jute",
+    "Year": 2013,
+    "Temp": 29.28,
+    "Rain": 185,
+    "Yield": 11.254
+  },
+  {
+    "Crop": "Jute",
+    "Year": 2012,
+    "Temp": 29.92,
+    "Rain": 144.17,
+    "Yield": 10.191
+  },
+  {
+    "Crop": "Jute",
+    "Year": 2011,
+    "Temp": 29.63,
+    "Rain": 185.83,
+    "Yield": 13.469
+  },
+  {
+    "Crop": "Jute",
+    "Year": 2010,
+    "Temp": 30.42,
+    "Rain": 177.5,
+    "Yield": 14.038
+  },
+  {
+    "Crop": "Jute",
+    "Year": 2009,
+    "Temp": 29.83,
+    "Rain": 222.5,
+    "Yield": 11.855
+  },
+  {
+    "Crop": "Jute",
+    "Year": 2008,
+    "Temp": 29.32,
+    "Rain": 198.17,
+    "Yield": 11.782
+  },
+  {
+    "Crop": "Jute",
+    "Year": 2007,
+    "Temp": 29.2,
+    "Rain": 260.83,
+    "Yield": 12.04
+  },
+  {
+    "Crop": "Jute",
+    "Year": 2006,
+    "Temp": 29.48,
+    "Rain": 223.33,
+    "Yield": 12.162
+  },
+  {
+    "Crop": "Jute",
+    "Year": 2005,
+    "Temp": 29.8,
+    "Rain": 170.17,
+    "Yield": 12.531
+  },
+  {
+    "Crop": "Jute",
+    "Year": 2004,
+    "Temp": 29.42,
+    "Rain": 211.17,
+    "Yield": 12.073
+  },
+  {
+    "Crop": "Potato",
+    "Year": 2015,
+    "Temp": 20.89,
+    "Rain": 15.66,
+    "Yield": 22.982
+  },
+  {
+    "Crop": "Potato",
+    "Year": 2014,
+    "Temp": 20.04,
+    "Rain": 17.91,
+    "Yield": 22.583
+  },
+  {
+    "Crop": "Potato",
+    "Year": 2013,
+    "Temp": 20.07,
+    "Rain": 21,
+    "Yield": 21.898
+  },
+  {
+    "Crop": "Potato",
+    "Year": 2012,
+    "Temp": 20.6,
+    "Rain": 9,
+    "Yield": 19.617
+  },
+  {
+    "Crop": "Potato",
+    "Year": 2011,
+    "Temp": 20.77,
+    "Rain": 13.5,
+    "Yield": 19.692
+  },
+  {
+    "Crop": "Potato",
+    "Year": 2010,
+    "Temp": 20.75,
+    "Rain": 17.25,
+    "Yield": 23.517
+  },
+  {
+    "Crop": "Potato",
+    "Year": 2009,
+    "Temp": 21.8,
+    "Rain": 0.5,
+    "Yield": 19.197
+  },
+  {
+    "Crop": "Potato",
+    "Year": 2008,
+    "Temp": 20.47,
+    "Rain": 54.5,
+    "Yield": 19.197
+  },
+  {
+    "Crop": "Potato",
+    "Year": 2007,
+    "Temp": 20.93,
+    "Rain": 19.75,
+    "Yield": 21.167
+  },
+  {
+    "Crop": "Potato",
+    "Year": 2006,
+    "Temp": 21.8,
+    "Rain": 0.5,
+    "Yield": 19.538
+  },
+  {
+    "Crop": "Potato",
+    "Year": 2005,
+    "Temp": 21.42,
+    "Rain": 12.25,
+    "Yield": 19.31
+  },
+  {
+    "Crop": "Potato",
+    "Year": 2004,
+    "Temp": 20.77,
+    "Rain": 7,
+    "Yield": 19.08
+  }
+]
+}

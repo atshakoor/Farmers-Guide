@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "369346015008",
+    "firebase_url": "https://farmersguide-e365d.firebaseio.com",
+    "project_id": "farmersguide-e365d",
+    "storage_bucket": "farmersguide-e365d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:369346015008:android:0658d9f47cab0c5f",
+        "android_client_info": {
+          "package_name": "com.example.raceme.farmersguide"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "369346015008-1cn9vhupfmhd3vn9r3fcrripr9b0rp9k.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.raceme.farmersguide",
+            "certificate_hash": "0fd0d64459f9c69e75364ebdf6b88f20bd798ac8"
+          }
+        },
+        {
+          "client_id": "369346015008-q2o0u5t30rkqup9jfg3ftiuri36kp2is.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDsEy3oXfHZwaXpoicDkwqdfrxNfmNweNs"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "369346015008-q2o0u5t30rkqup9jfg3ftiuri36kp2is.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
